@@ -9,7 +9,7 @@
         <module name="SpringLesson1" />
         <module name="SpringLesson2" />
         <module name="SpringLesson3" />
-        <module name="SpringLesson4" />
+        <module name="SpringCourse" />
       </profile>
     </annotationProcessing>
   </component>
